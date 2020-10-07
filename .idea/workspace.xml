@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a99e4af-3617-467e-8081-ba524e89a94d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CreatorComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/TodoContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/TodoCreator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stylesheets/creator.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stylesheets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stylesheets/todo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iY5VmN43irzQ3gG2ygVi9sbHhu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a99e4af-3617-467e-8081-ba524e89a94d" name="Default Changelist" comment="" />
+      <created>1602071712089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602071712089</updated>
+      <workItem from="1602071720894" duration="31000" />
+      <workItem from="1602071754386" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="190" key="FileChooserDialogImpl" timestamp="1602071746659">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="536" y="190" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1602071746659" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1602072154149">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1602072154149" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1602072154149">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1602072154149" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1602072154149">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1602072154149" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1602072154149">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1602072154149" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    box-sizing: border-box;
+    padding: 50px;
+    width: 400px;
+    height: 550px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wrapper input, .wrapper select {
+    height: 35px;
+    width: 100%;
+}
+
+

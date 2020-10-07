@@ -1,0 +1,58 @@
+.wrapper, #image{
+    position: relative;
+    height: 200px;
+    width: 350px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: #444;
+}
+
+.wrapper > h2{
+    width: 250px;
+    padding: 9px 15px;
+    font-size: 2rem;
+}
+
+.wrapper .taskDesc{
+    margin: 5px 15px;
+}
+
+.wrapper .taskStatus{
+    position: absolute;
+    left: 15px;
+    bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.wrapper > time{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: crimson;
+    font-size: 1.25rem;
+}
+
+.wrapper > button{
+    color: #151515;
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    right: 10px;
+    bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.wrapper[status='2']{
+    background-color: cadetblue;
+}
+
+.wrapper[status='2'] > time{
+    color: #ccc;
+    text-decoration: line-through solid #222;
+}
+
+.wrapper[status='2'] > h2{
+    text-decoration: line-through solid #222;
+}

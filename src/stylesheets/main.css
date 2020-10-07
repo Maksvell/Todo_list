@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    color: #ccc;
+}
+
+header{
+    padding: 2%;
+    color: black;
+    background-color: #353535;
+
+}
+
+main{
+    padding: 20px 20px;
+    background-color: #555;
+}
+
+main section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h1{
+    font-size: 3rem;
+    position: relative;
+    left: 10%;
+    display: inline-block;
+}
+
+footer{
+    background-color: #252525;
+    padding: 2rem;
+}
+
+
+
